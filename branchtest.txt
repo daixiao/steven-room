@@ -4,7 +4,5 @@ add a new line on branch -- dev!!
 
 add another line on master!!
 
-add another line on dev!!
-
 test merge --no--ff !!
 
