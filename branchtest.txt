@@ -6,3 +6,5 @@ add another line on master!!
 
 add another line on dev!!
 
+test merge --no--ff !!
+
